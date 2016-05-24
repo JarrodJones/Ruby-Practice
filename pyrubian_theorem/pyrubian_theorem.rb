@@ -2,7 +2,7 @@
 
 puts 'Welcome to the pyrubian theorem program!'
 puts 'This program can use magical powers to reveal the hypotenuse of a triangle when you know the length of the other two sides.'
-puts '(This will not work for equilateral triangles due to the fact that all sides are the same length!)'
+puts '(This will only work for right triangles!)'
 
 print "First, what is the length of the first side? "
 begin
